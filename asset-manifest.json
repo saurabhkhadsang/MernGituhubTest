@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MernGituhubTest/static/css/main.073c9b0a.css",
+    "main.js": "/MernGituhubTest/static/js/main.24805951.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MernGituhubTest/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/MernGituhubTest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MernGituhubTest/index.html",
+    "main.073c9b0a.css.map": "/MernGituhubTest/static/css/main.073c9b0a.css.map",
+    "main.24805951.js.map": "/MernGituhubTest/static/js/main.24805951.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MernGituhubTest/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.24805951.js"
+  ]
+}
